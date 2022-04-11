@@ -1,0 +1,6 @@
+#mainBackground {
+    background-image: url("../assets/images/leaves.png");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: auto;
+}
